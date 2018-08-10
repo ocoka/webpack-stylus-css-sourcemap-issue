@@ -1,0 +1,17 @@
+{
+  "name": "TestStylusWebpack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "testing repository for webpack stylus",
+  "main": "index.js",
+  "author": "Ocoka",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "raw-loader": "^0.5.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "webpack": "^4.16.5",
+    "webpack-command": "^0.4.1"
+  }
+}
